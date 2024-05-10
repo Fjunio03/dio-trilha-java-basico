@@ -25,7 +25,7 @@ public class AboutMe {
             System.out.println("Tenho " + idade + " anos ");
             System.out.println("Minha altura é " + altura + "cm ");
             scanner.close();   
-        }catch (InputMismatchException e){
+        }catch (InputMismatchException e){//tratando o erro caso o usuário digite dados incoerentes nos campos acima
             System.out.println("Os campos idade e altura precisam ser numéricos");
         }
     }
