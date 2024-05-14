@@ -11,3 +11,11 @@ Classe de controle (controller): classes que possuem a finalidade de disponibili
 Classe utilitária (util): classe que contém recursos comuns, à toda nossa aplicação.
 
 ![imagem ilustativa](image.png)
+
+## Pacotes
+
+Comercial : com.powersoft;
+
+Governamental : gov.powersoft;
+
+Código aberto: org.powersoft.
